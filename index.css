@@ -1,0 +1,37 @@
+table {
+  font-family: Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 60%;
+  margin: auto;
+  margin-top: 50px;
+  text-align: center;
+}
+
+table td,
+table th {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: center;
+  background-color: blue;
+  color: white;
+}
+h1{
+  text-align: center;
+  color: blue;
+}
+form input{
+padding: 7px;
+border-radius: 5px;
+border :2px solid black;
+}
+form select{
+  padding: 7px;
+  border-radius: 5px;
+  border: 2px solid black;
+
+}
+form input:last-child{
+  background-color: blue;
+  border-radius: 7px;
+  color: white;
+}
